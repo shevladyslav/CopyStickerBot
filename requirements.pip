@@ -4,3 +4,4 @@ watchfiles==1.1.0       # Simple, modern and high performance file watching and 
 watchdog==6.0.0         # Filesystem events monitoring
 SQLAlchemy==2.0.43      # Database Abstraction Library
 aiosqlite==0.21.0       # asyncio bridge to the standard sqlite3 module
+aiohttp==3.12.15        # Async http client/server framework (asyncio)
