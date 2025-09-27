@@ -1,0 +1,11 @@
+# IDEA
+.idea
+
+# venv
+.venv
+
+# .env
+.env
+
+# DATABASE
+bot.db

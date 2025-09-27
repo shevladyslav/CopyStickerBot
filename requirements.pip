@@ -1,0 +1,6 @@
+aiogram==3.22.0         # Modern and fully asynchronous framework for Telegram Bot API
+python-dotenv==1.1.1    # Read key-value pairs from a .env file and set them as environment variables
+watchfiles==1.1.0       # Simple, modern and high performance file watching and code reload in python.
+watchdog==6.0.0         # Filesystem events monitoring
+SQLAlchemy==2.0.43      # Database Abstraction Library
+aiosqlite==0.21.0       # asyncio bridge to the standard sqlite3 module
